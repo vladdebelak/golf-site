@@ -8,6 +8,21 @@
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
+      {%- if page.header-image -%}
+        <div style="
+          background: url('{{page.header-image}}');
+          padding: 200px 15px;
+          text-align: center;
+          background-size: cover;
+          background-position: center;
+          margin-bottom: 15px
+        ">
+          {%- if page.header-title -%}
+            <h1 style="color: white">{{page.header-title}}</h1>
+          {%- endif -%}
+        </div>
+      {%- endif -%}
+
       <div class="container">
         {{ content }}
       </div>
