@@ -16,6 +16,7 @@ Jim Redner - Tournaments Director
 Pat Wallace- website & handicaps
 
  #### Golf Courses we play
+ 
  * Twin Warriors
  * Santa Ana
  * Isleta
