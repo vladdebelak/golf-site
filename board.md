@@ -7,16 +7,16 @@ header-title: Board
 ---
 #### Board Members
 
-Larry Saavedra - President
-Charlie Parent - Treasurer
-Chuck Seward -  VP and Rules
-Don Kiger -  Sec
-Al Bass - Membership
-Jim Redner - Tournaments Director
-Pat Wallace- website & handicaps
+Larry Saavedra - President<br/>
+Charlie Parent - Treasurer<br/>
+Chuck Seward -  VP and Rules<br/>
+Don Kiger -  Sec<br/>
+Al Bass - Membership<br/>
+Jim Redner - Tournaments Director<br/>
+Pat Wallace- website & handicaps<br/>
 
- #### Golf Courses we play
- 
+#### Golf Courses we play
+
  * Twin Warriors
  * Santa Ana
  * Isleta
@@ -26,7 +26,7 @@ Pat Wallace- website & handicaps
  * ADO
  * Tanoan
  * Socorro
- *  Grants
+ * Grants
  * Kirkland AFB
  * Paa-Ko
  * Desert Greens
