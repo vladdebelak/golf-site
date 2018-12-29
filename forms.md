@@ -5,5 +5,10 @@ permalink: /Forms/
 header-image: /golf-site/images/golf-header.jpg
 header-title: Forms
 ---
-#### ABQSGA Tournament Forms
-[Click Here](http://abqsga.org/ABQSGA%20TOURMENT.pdf)
+##### ABQSGA Tournament Forms
+
+<a class="btn btn-primary" href="{{site.baseurl}}/documents/Tournamentform.pdf" target="_blank">Click here</a>
+
+##### Membership Form
+
+<a class="btn btn-primary" href="{{site.baseurl}}/documents/memberform.pdf" target="_blank">Click here</a>
