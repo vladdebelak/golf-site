@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-header-image: /golf-site/images/golf-header.jpg
+header-image: /golf-site/images/grass.jpg
 header-title: About
 ---
 The Albuquerque Seniors Golf Association plays 11 Tournaments each year in the general Albuquerque area including a year end championship. Some courses we play are Belen, Santa Fe, Grants, Socorro, Twin Warriors, Santa Ana, Isleta, Cochiti, Desert Greens, UNM, Kirkland AFB, etc. None of these tournaments require an over night stay.
@@ -16,3 +16,5 @@ We award points for tournament winners and also five points for closest to the p
 The three Championship tournaments are included in these 11 Tournaments and are played over a two week period in September or October.
 
 We have a free awards luncheon in early November or December for points settlement, tournament day money, (usually over 50% of players Win), and a raffle for any gifts or certificates from the various golf courses that award these prizes during the year.
+<br/>
+<br/>

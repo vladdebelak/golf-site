@@ -2,7 +2,7 @@
 layout: page
 title: Contact Us
 permalink: /contact/
-header-image: /golf-site/images/golf-header.jpg
+header-image: /golf-site/images/grass.jpg
 header-title: Contact Us
 ---
 **Don't hesitate to call for more information**
