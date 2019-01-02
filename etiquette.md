@@ -14,7 +14,7 @@ Evaluate your pace of play honestly and often, and if you're consistently the sl
 Do not talk. Even whispering is distracting. Also, moving, fidgeting and worst of all making practice swings in someones field of vision as they are getting ready to hit a shot is distracting. The point is, stand still from the time a player sets himself until the ball has left the club.
 
 ###### Keep your temper under control
-
+<br/>
 ###### Repair the ground you play on
 
 No one wants to play out of a divot or a shoe print in the sand.
