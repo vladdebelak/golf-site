@@ -3,7 +3,7 @@ layout: page
 title: Etiquette
 permalink: /etiquette/
 header-image: /golf-site/images/grass.jpg
-header-title: Etiquette
+header-title: 
 ---
 ##### Don't be the slowest player
 
